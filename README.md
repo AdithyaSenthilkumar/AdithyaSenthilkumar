@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **ML/AI Developer**, **Full-stack Web Dev
 ## 🌟 About Me
 
 - 🏅 **CBSE National Science Exhibition 2019 Winner**  
-  I mathematically modeled the best possible **lightning arrestor** for disaster management, showcasing the capture and effectiveness using a lightning arrestor at the exhibition.
+  I mathematically modeled the best possible **lightning arrestor** for disaster management, showcasing the capture and effectiveness using a Van-De-Graff Generator at the exhibition.
 
 - 🧠 **Skills**  
   I excel in **critical thinking**, **mathematical reasoning**, and advanced **machine learning** techniques.
